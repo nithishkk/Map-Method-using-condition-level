@@ -12,7 +12,7 @@ export default function App() {
           </div>
       )
       })}
-      <h1>Hello StackBlitz!</h1>
+      <h1>how map method using </h1>
       <p>Start editing to see some magic happen :)</p>
       {user.length}
     </div>
